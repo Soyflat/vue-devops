@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to seop App" />
+  <HelloWorld msg="Welcome to seop App 테성" />
 </template>
 
 <script>
